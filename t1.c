@@ -3,5 +3,6 @@
 main()
 {
 printf("hai");
+printf("bye");
 getch();
 }
